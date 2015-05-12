@@ -31,4 +31,7 @@ commande git log
 • Afin de préparer la création des futures branches, dont une pour gérer la todolist, remontez
 au commit initial avec la commande git checkout et le hash du premier commit qui est
 accessible depuis le log (attention à l'ordre des commits affichés par la commande git log)
-• Lister le contenu du dossier
+• Lister le contenu du dossie
+
+Les tâches techniques à effectuer sont dans le
+fichier TODO.txt
