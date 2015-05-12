@@ -32,3 +32,5 @@ commande git log
 au commit initial avec la commande git checkout et le hash du premier commit qui est
 accessible depuis le log (attention à l'ordre des commits affichés par la commande git log)
 • Lister le contenu du dossier
+
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/
