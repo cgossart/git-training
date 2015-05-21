@@ -14,3 +14,8 @@ Technologies web :
 - Wicket
 - Struts2
 - JSF
+
+--------------
+utilisation de git
+mise en place du projet
+dev
